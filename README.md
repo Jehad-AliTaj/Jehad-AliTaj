@@ -1,7 +1,5 @@
- <h1 align="center">Hi 👋, I'm Jehad Ali Taj</h1>
+<h1 align="center">Hi 👋, I'm Jehad Ali Taj</h1>
 <h3 align="center">Artificial Intelligence Engineer| Data Scientist | Machine Learning | Deep Learning | CV | NLP</h3>
-
-<p align="left"> <a href="https://twitter.com/jehad_alitaj" target="blank"><img src="https://img.shields.io/twitter/follow/jehad_alitaj?logo=twitter&style=for-the-badge" alt="jehad_alitaj" /></a> </p>
 
 - 💬 Ask me about **Artificial Intelligence | Machine Learning & Deep Learning**
 
